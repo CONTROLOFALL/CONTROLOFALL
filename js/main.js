@@ -58,7 +58,7 @@ paranoid.addEventListener("click", function() { // This is the cipher one
 });
 powerCube.addEventListener("click", function() {
     titleText.textContent = "The Power to Make It Right";
-    descriptionText.textContent = "Power...?";
+    descriptionText.textContent = "There is power in spaces";
     descriptionText2.textContent = "";
     dlButton.style.display = "flex";
     dlButton.href = "./PowerCube.zip";
